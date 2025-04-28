@@ -24,4 +24,6 @@ Matheus Araújo 💙
 
 📸 Demonstração
 
-![Demonstração do Projeto](https://github.com/user-attachments/assets/16bf8c40-f157-4662-81f4-95e217cb3e54)
+
+https://github.com/user-attachments/assets/6c04c474-bdb0-4539-b3ff-93cc87c619b7
+
