@@ -14,8 +14,11 @@ Este projeto é um site moderno de apresentação de produtos, desenvolvido para
 - **Botão "Saiba Mais"** com estilo gradiente
 - **Menu de navegação** fixo no topo
 
+---
 ✍️ Autor
 Feito com 💙 por Matheus Araújo
+
+---
 
 📸 Demonstração
 
