@@ -18,7 +18,7 @@ Este projeto é um site moderno de apresentação de produtos, desenvolvido para
 ✍️ Autor
 Feito por
 
-💙 por Matheus Araújo
+Matheus Araújo 💙
 
 ---
 
